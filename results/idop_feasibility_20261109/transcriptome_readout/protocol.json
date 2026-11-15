@@ -1,0 +1,85 @@
+{
+  "core": [
+    "ETS2",
+    "ETV4",
+    "FOXH1",
+    "ID1",
+    "JARID2",
+    "LIN28A",
+    "MYC",
+    "MYCN",
+    "NANOG",
+    "NR5A2",
+    "PDLIM1",
+    "POU5F1",
+    "PRDM14",
+    "RUNX1T1",
+    "SOX2",
+    "TRIM24",
+    "TRIM25",
+    "VENTX",
+    "ZIC2",
+    "ZIC3",
+    "ZNF398",
+    "ZNF649",
+    "ZNF90"
+  ],
+  "targets": [
+    "ETS2",
+    "ETV4",
+    "FOXH1",
+    "ID1",
+    "JARID2",
+    "LIN28A",
+    "MYC",
+    "MYCN",
+    "NR5A2",
+    "PDLIM1",
+    "POU5F1",
+    "PRDM14",
+    "RUNX1T1",
+    "TRIM24",
+    "TRIM25",
+    "ZIC3"
+  ],
+  "external_guides": {
+    "ETV4": [
+      "ETV4_sg_5",
+      "ETV4_sg_6"
+    ],
+    "FOXH1": [
+      "FOXH1_sg_10",
+      "FOXH1_sg_9"
+    ],
+    "POU5F1": [
+      "POU5F1_sg_1",
+      "POU5F1_sg_6"
+    ],
+    "PRDM14": [
+      "PRDM14_sg_7",
+      "PRDM14_sg_8"
+    ]
+  },
+  "days": [
+    2.0,
+    3.0,
+    4.0,
+    5.0
+  ],
+  "readouts": "All non-core gene symbols with at least one RNA UMI in pooled strict-QC controls on each of days 2\u20135",
+  "predictors": "Core-to-core and core-to-readout directed edges, with self terms in dynamics",
+  "normalization": "Mean single-cell log1p CP10k minus pooled same-day non-targeting control mean",
+  "lasso_alpha": 0.1,
+  "window_days": 2,
+  "minimum_windows": 2,
+  "ridge": 0.1,
+  "stability_margin": 0.01,
+  "forcing": -1,
+  "duration_days": 3,
+  "bootstraps": 32,
+  "bootstrap_seed": 20261109,
+  "minimum_abs_response": 0.03,
+  "minimum_sign_agreement": 0.8,
+  "maximum_nominees_per_source": 5,
+  "external": "Same directional CRISPR screen as fixed-panel run. Markers absent from the public RNA matrix are recorded as unavailable."
+}

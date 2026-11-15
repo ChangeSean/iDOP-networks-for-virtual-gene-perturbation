@@ -1,0 +1,23 @@
+{
+  "original_screen_sha256": "2353711ea3335db9e73a37e4698ee99999bf78c562ea4533a572e1d53a7a5d26",
+  "expected_direction": {
+    "POU5F1": {
+      "POU5F1": -1,
+      "VIM": 1,
+      "RARRES2": -1,
+      "TAGLN": 1
+    },
+    "PRDM14": {
+      "PRDM14": -1,
+      "CLDN7": -1,
+      "TDGF1": -1,
+      "CD9": -1,
+      "DNMT3B": -1
+    }
+  },
+  "GSE22795": "PRDM14 shRNA vs luciferase shRNA, day 3, 3 vs 3",
+  "GSE164786": "PRDM14 auxin depletion vs no auxin, 24 h, 3 vs 3 libraries",
+  "GSE21135": "OCT4 shRNA vs luciferase shRNA, days 2 and 3 separately, each 3 vs 3",
+  "GSE34904": "H1 shOCT4 vs H1P by matched collection day 1\u20138, each 1 vs 1",
+  "criteria": "Within each array probe or unique RNA-seq coordinate, compare treated and control means. Report expected sign and complete expected or opposite separation. Day contrasts with one sample per condition are descriptive. Probes, regions and days are not treated as replicates."
+}

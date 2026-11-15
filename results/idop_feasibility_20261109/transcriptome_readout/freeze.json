@@ -1,0 +1,9 @@
+{
+  "measurable": 15598,
+  "readouts": 15575,
+  "pairs": 62300,
+  "core_edges": 167,
+  "core_to_readout_edges": 115202,
+  "nominees": 20,
+  "frozen_candidates_sha256": "eaaf37439a6e371825f2fcd9cdc43cd74e69219390f1318f9076d0ca9f7decc2"
+}

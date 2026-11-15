@@ -1,0 +1,287 @@
+{
+  "simulation": [
+    {
+      "curvature": 0.0,
+      "noise": 0.0,
+      "penalty": "inf",
+      "slope_0_to_1": 0.6038436213452013,
+      "curvature_0_to_1": 0.0,
+      "endpoint_error": 0.0979012824503016
+    },
+    {
+      "curvature": 0.0,
+      "noise": 0.0,
+      "penalty": "0.1",
+      "slope_0_to_1": 0.5527065568988261,
+      "curvature_0_to_1": -0.17110168002474807,
+      "endpoint_error": 0.09654357160780765
+    },
+    {
+      "curvature": 0.0,
+      "noise": 0.025,
+      "penalty": "inf",
+      "slope_0_to_1": 0.5963785711325911,
+      "curvature_0_to_1": 0.0,
+      "endpoint_error": 0.09874826707306239
+    },
+    {
+      "curvature": 0.0,
+      "noise": 0.025,
+      "penalty": "0.1",
+      "slope_0_to_1": 0.5470457477706199,
+      "curvature_0_to_1": -0.16962783882230265,
+      "endpoint_error": 0.0968698742758597
+    },
+    {
+      "curvature": 0.45,
+      "noise": 0.0,
+      "penalty": "inf",
+      "slope_0_to_1": 0.597639931791699,
+      "curvature_0_to_1": 0.0,
+      "endpoint_error": 0.05607658724344103
+    },
+    {
+      "curvature": 0.45,
+      "noise": 0.0,
+      "penalty": "0.1",
+      "slope_0_to_1": 0.6300181997137844,
+      "curvature_0_to_1": 0.3281162507664373,
+      "endpoint_error": 0.08160839288404559
+    },
+    {
+      "curvature": 0.45,
+      "noise": 0.025,
+      "penalty": "inf",
+      "slope_0_to_1": 0.6034392246436745,
+      "curvature_0_to_1": 0.0,
+      "endpoint_error": 0.052302606183833006
+    },
+    {
+      "curvature": 0.45,
+      "noise": 0.025,
+      "penalty": "0.1",
+      "slope_0_to_1": 0.6331369756610157,
+      "curvature_0_to_1": 0.321868294798739,
+      "endpoint_error": 0.07924890179708553
+    }
+  ],
+  "folds": [
+    {
+      "source": "ETS2",
+      "penalty": "inf",
+      "inner_increment_loss": [
+        1.6134476918743912,
+        1.2226312787550055,
+        1.1052938876361311,
+        1.0927492767315017
+      ],
+      "edges": 175
+    },
+    {
+      "source": "ETV4",
+      "penalty": "inf",
+      "inner_increment_loss": [
+        1.6672350238369733,
+        1.196834098773919,
+        1.067901300495114,
+        1.0573925351017814
+      ],
+      "edges": 174
+    },
+    {
+      "source": "FOXH1",
+      "penalty": "inf",
+      "inner_increment_loss": [
+        1.6662541158956437,
+        1.1645155259474196,
+        1.0501196153560846,
+        1.0502308905086586
+      ],
+      "edges": 176
+    },
+    {
+      "source": "ID1",
+      "penalty": "inf",
+      "inner_increment_loss": [
+        1.6545816333476724,
+        1.1760539102541787,
+        1.0471126594089626,
+        1.0396452610456959
+      ],
+      "edges": 170
+    },
+    {
+      "source": "JARID2",
+      "penalty": "inf",
+      "inner_increment_loss": [
+        1.726714473424933,
+        1.1784325799002278,
+        1.0407072962283082,
+        1.0372054068407714
+      ],
+      "edges": 172
+    },
+    {
+      "source": "LIN28A",
+      "penalty": "inf",
+      "inner_increment_loss": [
+        1.641776922932974,
+        1.1602363851466884,
+        1.0582649266802355,
+        1.058236560933864
+      ],
+      "edges": 177
+    },
+    {
+      "source": "MYC",
+      "penalty": "10.0",
+      "inner_increment_loss": [
+        2.1274344313051383,
+        1.1341379217551733,
+        1.020192571204899,
+        1.035478028860901
+      ],
+      "edges": 180
+    },
+    {
+      "source": "MYCN",
+      "penalty": "inf",
+      "inner_increment_loss": [
+        1.5854781964042957,
+        1.135088603886471,
+        1.051016213252146,
+        1.0498970661544234
+      ],
+      "edges": 170
+    },
+    {
+      "source": "NR5A2",
+      "penalty": "inf",
+      "inner_increment_loss": [
+        1.5587096908121019,
+        1.1556552324309735,
+        1.0677668954939066,
+        1.0699985957046627
+      ],
+      "edges": 186
+    },
+    {
+      "source": "PDLIM1",
+      "penalty": "inf",
+      "inner_increment_loss": [
+        1.7684731415966477,
+        1.177065404513333,
+        1.0730002183580265,
+        1.0750411443142882
+      ],
+      "edges": 159
+    },
+    {
+      "source": "POU5F1",
+      "penalty": "inf",
+      "inner_increment_loss": [
+        2.115392634686084,
+        1.37703281501178,
+        1.255015814568485,
+        1.256760490734397
+      ],
+      "edges": 175
+    },
+    {
+      "source": "PRDM14",
+      "penalty": "inf",
+      "inner_increment_loss": [
+        3.024228521642504,
+        1.6380346507649919,
+        1.2647429372300436,
+        1.238315196933688
+      ],
+      "edges": 195
+    },
+    {
+      "source": "RUNX1T1",
+      "penalty": "inf",
+      "inner_increment_loss": [
+        2.096676097916453,
+        1.3632445700236144,
+        1.1685920912890437,
+        1.164656904227518
+      ],
+      "edges": 187
+    },
+    {
+      "source": "TRIM24",
+      "penalty": "10.0",
+      "inner_increment_loss": [
+        1.5532771226362871,
+        1.0956794406709234,
+        1.0278854390972696,
+        1.0387552047234783
+      ],
+      "edges": 193
+    },
+    {
+      "source": "TRIM25",
+      "penalty": "inf",
+      "inner_increment_loss": [
+        1.8085129115179623,
+        1.1769602882675243,
+        1.0418088989799346,
+        1.0364695493985185
+      ],
+      "edges": 179
+    },
+    {
+      "source": "ZIC3",
+      "penalty": "inf",
+      "inner_increment_loss": [
+        1.6843864072804027,
+        1.1746894779797625,
+        1.047538586831823,
+        1.0360655510839616
+      ],
+      "edges": 187
+    }
+  ],
+  "full_penalty": "inf",
+  "full_inner_increment_loss": [
+    1.5460688351725946,
+    1.136084400818755,
+    1.0470720349313731,
+    1.0463588751935344
+  ],
+  "edges": 167,
+  "stable_edges": 9,
+  "condition_median": 8.65098325123402,
+  "condition_max": 19.417471097320117,
+  "forcing_at_zero": 10,
+  "max_real_eigenvalue": 0.330115910276765,
+  "averages": {
+    "linear": {
+      "mse": 1.7504722534352029,
+      "cosine": 0.1279151868486458,
+      "fraction_outside": 0.040913748137108796
+    },
+    "quadratic": {
+      "mse": 1.758775234885701,
+      "cosine": 0.12544104172553142,
+      "fraction_outside": 0.040913748137108796
+    },
+    "quadratic_fixed": {
+      "mse": 212.83311171785397,
+      "cosine": 0.055069044901468404,
+      "fraction_outside": 0.11263505961251863
+    }
+  },
+  "quadratic_wins_ties_losses": [
+    1,
+    14,
+    1
+  ],
+  "quadratic_minus_linear_mse_interval": [
+    -0.0027263824800884406,
+    0.0276353268315829
+  ],
+  "dose": 0.5,
+  "bootstraps": 200
+}

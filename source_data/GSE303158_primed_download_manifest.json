@@ -1,0 +1,11 @@
+{
+  "accession": "GSE303158",
+  "condition": "primed endpoint day6",
+  "files": {
+    "GSE303158_Seurat_after_mixscape.RData.gz": {
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE303nnn/GSE303158/suppl/GSE303158_Seurat_after_mixscape.RData.gz",
+      "bytes": 810334927,
+      "sha256": "254bd302d8d07245fe37eb704ded4737ddde2efaf6dad8183e6eb2db98e888c0"
+    }
+  }
+}

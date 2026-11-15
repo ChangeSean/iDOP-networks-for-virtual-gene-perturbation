@@ -1,0 +1,17 @@
+{
+  "doi": "10.6084/m9.figshare.26819743.v1",
+  "files": {
+    "TargetedScreen_LFC_byGene.tsv.gz": {
+      "url": "https://ndownloader.figshare.com/files/49291630",
+      "bytes": 77563731,
+      "md5": "f75a54e972e14dad2465070e2108f58a",
+      "sha256": "4e963e6806995b448854636b131072ee23abd4af127068d03fb4ea07240dede0"
+    },
+    "GenomeWideScreen_LFC_byGene.tsv.gz": {
+      "url": "https://ndownloader.figshare.com/files/49291654",
+      "bytes": 794610300,
+      "md5": "03cb8a3b4328de50d45746a9d784bbc5",
+      "sha256": "74fadc4866a8c498ed78c937109d27f449822d30d9fd13e4cd76d59d678e9ec2"
+    }
+  }
+}

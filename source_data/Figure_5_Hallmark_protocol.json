@@ -1,0 +1,8 @@
+{
+  "library": "MSigDB Hallmark 2020 via Enrichr",
+  "gmt_sha256": "4275592957a1587652092bb398cf77216fde5b8daa2aedaa0e016f7d10bbdb81",
+  "test": "Two-sided Mann\u2013Whitney with ties and BH within source, universe and profile",
+  "minimum_members": 15,
+  "exploratory_q_threshold": 0.1,
+  "criterion": "q <= 0.10 and same signed rank-biserial effect in full and target holdout; external support requires same sign and q <= 0.10 in all three shared-universe profiles"
+}

@@ -1,0 +1,43 @@
+{
+  "accession": "GSE213069",
+  "kind": "GEO Cell Ranger RNA/CRISPR count archives; not FASTQ",
+  "downloaded_at_utc": "2026-11-05T16:52:46.692437+00:00",
+  "files": [
+    {
+      "name": "GSE213069_day2.tar.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE213nnn/GSE213069/suppl/GSE213069_day2.tar.gz",
+      "bytes": 73980930,
+      "sha256": "ba0f047c87ddd97a2a8c8226146b3eed7854a4f94973ed74211b534b31262292",
+      "cached": false
+    },
+    {
+      "name": "GSE213069_day3.tar.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE213nnn/GSE213069/suppl/GSE213069_day3.tar.gz",
+      "bytes": 92896822,
+      "sha256": "d777cfce826c85a48c7d8d48356dd7e9db8e1588789906740b4408cf0315615b",
+      "cached": false
+    },
+    {
+      "name": "GSE213069_day4.tar.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE213nnn/GSE213069/suppl/GSE213069_day4.tar.gz",
+      "bytes": 106844073,
+      "sha256": "52df5fb3b748f95c35cf3629e4bc3c6097c136641099f8d89dcf4d5a214d58ec",
+      "cached": false
+    },
+    {
+      "name": "GSE213069_day5.tar.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE213nnn/GSE213069/suppl/GSE213069_day5.tar.gz",
+      "bytes": 102020882,
+      "sha256": "779db9f64ed5f16b4da010d25e9ab54eed44186a64b10c7d9b5d75045e9dc34f",
+      "cached": false
+    },
+    {
+      "name": "GSE213069_gRNA_name_list.xlsx",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE213nnn/GSE213069/suppl/GSE213069_gRNA_name_list.xlsx",
+      "bytes": 9579,
+      "sha256": "8d090c7dabe336f2aab5ad0f43a035dff725db25e45f98205d4a052d394da466",
+      "cached": false
+    }
+  ],
+  "total_bytes": 375752286
+}

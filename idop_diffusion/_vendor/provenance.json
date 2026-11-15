@@ -1,0 +1,8 @@
+{
+  "source_sha256": "49b6885b9fdc7b4a5ea0be65ee32691a9cc6a3b989f4944223c1f3cc5263b6cd",
+  "upstream": "https://github.com/Yu-Wang-0923/idopNetworkAPP",
+  "extracted_function": "edge_select",
+  "function_body_unmodified": true,
+  "excerpt_sha256": "cbba5b849981d8ae9a85befc391fa1628a72d43faa97aa118b813d88fc789059",
+  "license": "MIT, Copyright (c) 2026 Yu Wang"
+}
